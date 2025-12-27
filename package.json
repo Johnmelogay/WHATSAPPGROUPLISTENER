@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-group-listener",
+  "version": "1.0.0",
+  "description": "Bot para ouvir mensagens de reservas no WhatsApp",
+  "main": "bot.js",
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.30.0",
+    "axios": "^1.6.0"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
